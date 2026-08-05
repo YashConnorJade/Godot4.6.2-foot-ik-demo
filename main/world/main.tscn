@@ -66,7 +66,7 @@ material = SubResource("StandardMaterial3D_crrid")
 [node name="stairs_wood" parent="Environment" unique_id=2006047412 instance=ExtResource("2_ph8oe")]
 transform = Transform3D(-2.1855694e-08, 0, 0.5, 0, 0.5, 0, -0.5, 0, -2.1855694e-08, -10, 0, 0)
 
-[node name="stairs_wood" parent="Environment/stairs_wood" index="0" unique_id=1314771046]
+[node name="stairs_wood" parent="Environment/stairs_wood" index="0" unique_id=2067884167]
 transform = Transform3D(100, 0, 0, 0, -4.3711384e-06, 99.99999, 0, -99.99999, -4.3711384e-06, 0, 0, 0)
 
 [node name="StaticBody3D" type="StaticBody3D" parent="Environment/stairs_wood/stairs_wood" index="0" unique_id=278406010]
